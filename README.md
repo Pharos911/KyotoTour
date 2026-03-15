@@ -25,3 +25,34 @@ Kyoto Tour adalah sebuah aplikasi panduan wisata dan kuliner yang berada di Kota
   <img src="gambar/detailpage.png" width="270" height="540">
   <img src="gambar/detailpage2.png" width="270" height="540">
 </p></br>
+
+**Fitur**
+* Pengelompokan kategori wisata dan transportasi
+* Detail informasi mengenai wisata dan transportasi
+* penggunaan [google map](https://www.google.com/maps) pada wisata
+* Pencarian dengan masukan teks dari keyboard untuk mencari wisata
+* Informasi tambahan
+  1. [Informasi Mengenai Prefektur](https://www.youtube.com/watch?v=FBN2YXbwB44) By Visitjapan 
+  2. [Informasi mengenai Kota Kyoto](https://youtu.be/2G0Hh8f9Cc8?si=LSlW9xrl8PYCCIuH) By Japan-Guide.com
+  3. [Perbedaan Kuil Shinto dan Budha](https://www.youtube.com/watch?v=Ll696KfKjEc&t=568s) By Let's ask Shogo | Your Japanese friend in Kyoto
+
+## Requirements
+* Android Studio Bumblebee 2021.1.1
+* Minimum [Android SDK 21](https://developer.android.com/tools/releases/platforms#5.1)
+* [Google Cloude](https://console.cloud.google.com/apis/library)
+
+## Tools, Library & Frameworks
+* [Google Maps API]([https://www.tensorflow.org/](https://console.cloud.google.com/apis/library/maps-android-backend.googleapis.com)
+* [Android Studio](https://developer.android.com/studio)
+* [Java](https://www.java.com/en/)
+
+## Android Library
+* Constraint Layout
+* Search
+* GMaps Service
+* Gmaps Location
+* Material Design
+* ViewBinding
+* Glide
+* ViewPager2
+* VideoView
