@@ -64,3 +64,13 @@ https://www.youtube.com/@LetsaskShogo/videos
 https://www.youtube.com/@japanguide/videos
 https://www.youtube.com/@visitjapan1216/videos
 ```
+
+**Informasi dan Gambar**
+```
+https://www.japan-guide.com/
+https://www.japan.travel/
+https://www.arukumachikyoto.jp/index.php?lang=en
+https://kyoto.travel/en
+https://www.discoverkyoto.com/visitors-guide/trains/
+https://guidetokyoto.com/
+```
