@@ -39,7 +39,7 @@ Kyoto Tour adalah sebuah aplikasi panduan wisata dan kuliner yang berada di Kota
 ## Requirements
 * Android Studio Bumblebee 2021.1.1
 * Minimum [Android SDK 21](https://developer.android.com/tools/releases/platforms#5.1)
-* [Google Cloude](https://console.cloud.google.com/apis/library)
+* [Google Cloud](https://console.cloud.google.com/apis/library)
 
 ## Tools, Library & Frameworks
 * [Google Maps API]([https://www.tensorflow.org/](https://console.cloud.google.com/apis/library/maps-android-backend.googleapis.com)
