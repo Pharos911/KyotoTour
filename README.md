@@ -48,11 +48,19 @@ Kyoto Tour adalah sebuah aplikasi panduan wisata dan kuliner yang berada di Kota
 
 ## Android Library
 * Constraint Layout
-* Search
+* Filter
 * GMaps Service
 * Gmaps Location
 * Material Design
-* ViewBinding
+* LatLang
 * Glide
-* ViewPager2
+* ViewHolder
 * VideoView
+
+## Kredit
+**Video**
+```
+https://www.youtube.com/@LetsaskShogo/videos
+https://www.youtube.com/@japanguide/videos
+https://www.youtube.com/@visitjapan1216/videos
+```
