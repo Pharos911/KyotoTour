@@ -42,7 +42,7 @@ Kyoto Tour adalah sebuah aplikasi panduan wisata dan kuliner yang berada di Kota
 * [Google Cloud](https://console.cloud.google.com/apis/library)
 
 ## Tools, Library & Frameworks
-* [Google Maps API]([https://www.tensorflow.org/](https://console.cloud.google.com/apis/library/maps-android-backend.googleapis.com)
+* [Google Maps API](https://console.cloud.google.com/apis/library/maps-android-backend.googleapis.com)
 * [Android Studio](https://developer.android.com/studio)
 * [Java](https://www.java.com/en/)
 
